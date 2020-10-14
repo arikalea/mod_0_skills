@@ -1,0 +1,14 @@
+Instance/object: Taqueria 21 menu
+
+cuisine_theme (string) = "Mexican"
+gluten_free_options (boolean) = true
+name_of_restaurant (string) = "Taqueria 27"
+cost_of_dish (integer) = 7
+drink_menu (integer) = 3
+
+Methods:
+
+order_two_meals: 7 * 2 = 14
+find_restaurant_name: "TAQUERIA 27"
+change_theme: "Italian"
+create_new_drink: 3 + 1 = 4
