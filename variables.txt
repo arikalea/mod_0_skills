@@ -1,0 +1,9 @@
+food = "bagel"
+is_delicious = true
+food = "shrimp"
+num2 = 5
+num7 = 30
+quotient = 6
+songs = ["Heart of Glass", "Come Down", "Lip Gloss"]
+songs.drop(1)
+food.length
