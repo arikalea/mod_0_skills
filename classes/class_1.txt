@@ -10,6 +10,6 @@ drink_menu (integer)
 Methods:
 
 order_two_meals (cost_of_dish * 2)
-find_restaurant_name (all caps name_of_resaurant)
+find_restaurant_name (all caps name_of_restaurant)
 change_theme (re-assign cuisine_theme)
 create_new_drink (add 1 to drink_menu)
