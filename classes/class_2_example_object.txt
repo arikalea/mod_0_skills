@@ -1,0 +1,15 @@
+Instance/object: Tulie Bakery kitchen
+
+number_of_ovens = 3
+wait_staff = 5
+host_name = "Sally"
+fresh_ingredients = true
+chef = 2
+
+
+Methods:
+
+hire_chef: 2 + 1 = 3
+total_employees: 5 + 2 = 7
+change_host: "Molly"
+break_oven: 3 - 1 = 2
