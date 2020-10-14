@@ -1,0 +1,15 @@
+class kitchen
+
+number_of_ovens (integer)
+wait_staff (integer)
+host_name (string)
+fresh_ingredients (boolean)
+chef (integer)
+
+
+Methods:
+
+hire_chef (add 1 to chef)
+total_employees (wait_staff + chef)
+change_host (re-assign host_name)
+break_oven (decrease number_of_ovens by 1)
